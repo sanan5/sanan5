@@ -13,7 +13,7 @@
 
 ## Professional Achievements
 
-- Revitalized employer marketing platform with React, Angular, Node, Nest, TypeScript, and GraphQL, enhancing performance and scalability. Provided leadership in React and JavaScript, fostering skill growth.
+- Revitalized employer marketing platform with React, TypeScript, and GraphQL, enhancing performance and scalability. Provided leadership in React and JavaScript, fostering skill growth.
 - Led development of eCommerce platform with React, Next.js, Angular, and Node.js, implementing CI/CD with GitHub Actions and Docker. Mentored junior developers for skill advancement.
 - Adopted frontend approach using React, TypeScript, and Angular, integrated with efficient Node.js RESTful APIs. Leveraged AWS for robust data storage and DevOps for seamless CI/CD.
 - Cultivated collaborative culture, led code reviews, and mentored team for continuous learning. Utilized AWS for highly available architecture, ensuring quality software delivery.
